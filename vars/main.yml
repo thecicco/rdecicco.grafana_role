@@ -1,0 +1,6 @@
+---
+grafana_required_libs:
+  - apt-transport-https
+
+grafana_repo: "deb https://packages.grafana.com/oss/deb stable main"
+grafana_key: "https://packages.grafana.com/gpg.key"
